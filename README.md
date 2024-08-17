@@ -1,4 +1,4 @@
-THIS A CAESAR CIPHER ALGORITHM
+THIS IS A CAESAR CIPHER ALGORITHM
 A Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption.
 
 HOW TO USE IT:
